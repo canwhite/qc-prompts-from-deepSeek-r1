@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "qc-prompts-from-deepSeek-r1"
+version = "0.1.0"
+description = ""
+authors = ["qiaochao <qiaochao@icourt.cc>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "^3.11.11"
+colorlog = "^6.9.0"
+fastapi = "^0.115.8"
+python-dotenv = "^1.0.1"
+uvicorn = "^0.34.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
