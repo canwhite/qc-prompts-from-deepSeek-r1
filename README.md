@@ -3,7 +3,7 @@ Get the think tag from the deepseek-r1 deployed locally through ollama,
 extend the prompts, and then make requests to other models in a proprietary direction 
 
 ### pre
-[ollama模型本地化]([https://mp.weixin.qq.com/cgi-bin/appmsg?begin=0&count=10&type=77&action=list_card&token=881712427&lang=zh_CN](https://mp.weixin.qq.com/s/UJjOK8Tkzp8q7_Bs7b4uzg))
+[ollama模型本地化]([https://mp.weixin.qq.com/s/UJjOK8Tkzp8q7_Bs7b4uzg])
 
 ### env
 
